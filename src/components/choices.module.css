@@ -1,0 +1,13 @@
+.choice{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border:solid;
+    
+}
+div{
+    width: fit-content;
+    
+}
